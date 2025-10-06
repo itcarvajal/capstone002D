@@ -1,6 +1,8 @@
 # capstone002D kine_app
 proyecto capstone - Italo Carvajal - Adonis Núñez - Juan Medina - Jose Vergara
 
+# Repositorio de desarrollo
+https://github.com/Adonisnu4/kine_app
 
 # Contexto	
 El proyecto es una aplicación móvil que busca solucionar la creciente necesidad de herramientas digitales que faciliten el seguimiento de rutinas de kinesiología y la comunicación con profesionales, enfocada en la prevención, seguimiento y rehabilitación física de adultos y adultos mayores en Chile, específicamente en la Región Metropolitana. 
